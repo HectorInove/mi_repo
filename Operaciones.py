@@ -1,3 +1,7 @@
 print("hola mundo")
-# Hector resta:
-resta = 10 - 4
+# agregamos operaciones al codigo
+a = 4
+b = 10
+suma = a+b
+
+
